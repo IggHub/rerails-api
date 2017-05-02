@@ -6,15 +6,11 @@ class TodosController < ApplicationController
 
   def create
     @todo = Todo.new(todo_params)
-
     if @todo.save
       render json: @todo
     else
       render json: @todo, status: :unprocessable_entity
     end
-  end
-
-  def edit
   end
 
   def show
