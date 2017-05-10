@@ -4,6 +4,8 @@
 
 Overall this is a simple todo-app that uses **Rails backend** and **React frontend.** Perfect to learn how to communicate between two different projects.
 
+![ReRails Demo](./app/assets/ReRails-Todo-Demo1.gif)
+
 I used [this](https://www.fullstackreact.com/articles/how-to-get-create-react-app-to-work-with-your-rails-api/) as my reference to get started. This part will cover the API part. To see the frontend/ client part, check out the [ *rerails-client*](https://github.com/IggHub/rerails-client) repo.
 
 
